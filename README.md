@@ -1,4 +1,4 @@
 # test-github-links
 
 
-[issues/new](issues/new)
+[issues/new](/issues/new)
